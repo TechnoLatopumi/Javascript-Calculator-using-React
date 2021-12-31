@@ -7,8 +7,6 @@ to use this project :
 note
 - this project using react CDN for production
 - js babel
-- 
-- 
 - here is the preview for my project
 -https://technolatopumi.github.io/Javascript-Calculator-using-React/
 -https://javascript-calculator-react.netlify.app/
