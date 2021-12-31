@@ -2,7 +2,7 @@
 ### This is my Project for Front End Libraries Certification
 
 to use this project :
-### You need to download vscode and live server extension for you vscode
+### You need to download vscode and live server extension for your vscode
 
 note
 - this project using react CDN for production
