@@ -9,7 +9,7 @@ note
 - js babel
 
 here is the preview for my project
-https://technolatopumi.github.io/Javascript-Calculator-using-React/
-https://javascript-calculator-react.netlify.app/
+-https://technolatopumi.github.io/Javascript-Calculator-using-React/
+-https://javascript-calculator-react.netlify.app/
 happy coding!
 credit to Florin Popin for guide and logic
